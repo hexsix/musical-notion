@@ -20,6 +20,7 @@ export default siteConfig({
   twitter: 'hexsixology',
   github: 'hexsix',
   // linkedin: 'fisch2',
+  mastodon: '@hexsix@mastodon.hexsix.me',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
@@ -48,7 +49,7 @@ export default siteConfig({
   pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
-  // important pages
+  // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
   navigationStyle: 'default'
   // navigationStyle: 'custom',
   // navigationLinks: [
