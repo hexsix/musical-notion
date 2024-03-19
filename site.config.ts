@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: 'hexsixology',
   github: 'hexsix',
   // linkedin: 'fisch2',
-  mastodon: '@hexsix@mastodon.hexsix.me',
+  mastodon: 'https://mastodon.hexsix.me/@hexsix',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
